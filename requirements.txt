@@ -44,7 +44,7 @@ flask-cors==3.0.3
 gevent==1.2.2
 
 # Talk to postgres demo database
-psycopg2
+psycopg2-binary
 
 #### LIBRARIES USED IN SCRIPTS ####
 # argument parsing in for data cleaning scripts
